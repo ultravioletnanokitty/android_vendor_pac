@@ -1,0 +1,5 @@
+PAC vendor "overlay" repository for ZTE SmartTabs
+
+checkout the appropriate branch into an empty directory, then copy the directory's contents to vendor/pac/
+
+this is hacky but it works for now. hopefully i will be allowed to integrate support for these devices into the official pac source.
