@@ -29,3 +29,7 @@ add_lunch_combo pac_d2spr-userdebug
 # Galaxy Note Series
 add_lunch_combo pac_i605-userdebug
 add_lunch_combo pac_l900-userdebug
+# ZTE SmartTabs
+add_lunch_combo pac_V55-userdebug
+add_lunch_combo pac_V11A-userdebug
+add_lunch_combo pac_V71A-userdebug
