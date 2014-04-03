@@ -1,0 +1,8 @@
+PAC 4.1 CHANGELOG
+(since fork at v19.3.0)
+
+19.3.1:
+-------
++ Updated SuperSU to v1.9.4
++ Added bootlogo overlay for ZTE devices
+- Disabled deleting ParanoidPreferences, the included version is open source
